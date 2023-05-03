@@ -10,7 +10,7 @@ This dataset has been taken from the famous UCI Machine Learning Repository. The
 The repository contains the following files:
 
 * income_project.sas: This is the main SAS program file that contains the code for data cleaning and analysis.
-* adult.csv: This is the input dataset file in CSV format.
+* rawdata.csv: This is the input dataset file in CSV format.
 
 ##How to access SAS program
 To access the SAS program for this project, follow these steps:
